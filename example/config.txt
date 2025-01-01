@@ -1,0 +1,2 @@
+Prefix plugins/SVR/example/
+Plugin SVR inputfile Merged-update_hourly.csv outputfile .
